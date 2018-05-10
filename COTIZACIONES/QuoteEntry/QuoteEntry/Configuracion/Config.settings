@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuoteEntry.Configuracion" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CotizCITALSA</Value>
+    </Setting>
+    <Setting Name="TaxCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">V-IVAVENT</Value>
+    </Setting>
+    <Setting Name="CurrencyDefault" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COP</Value>
+    </Setting>
+    <Setting Name="ExchangeRateDefault" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ShipViaCodeDefault" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TERR</Value>
+    </Setting>
+    <Setting Name="TaskSetID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COTIZACI</Value>
+    </Setting>
+    <Setting Name="ActiveTaskID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GANPER</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
